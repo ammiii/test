@@ -1,1 +1,10 @@
-D
+{
+  "Visibility": "VISIBLE1",
+  "Title": "آپدیت برنامه",
+  "Description": "نسخه جدید برنامه در دسترس شد ",
+  "MainTextButton": "آپدیت ",
+  "Cancelable": "false",
+  "CancelButtonText": "بعداً آپدیت میکنم",
+  "DownloadLink": "https://google.com",
+  "Version": "1.1"
+}
